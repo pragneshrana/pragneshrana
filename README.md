@@ -2,8 +2,7 @@
 
 - ⚡ Fun fact: 'It was working in my computer'
 
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev">
+<a href="https://github.com/pragneshrana/github-profile-views-counter">
 </a>
 <!--
 **pragneshrana/pragneshrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
