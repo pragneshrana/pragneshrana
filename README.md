@@ -7,7 +7,6 @@
 ```
 while(1)
   Be Happy 😄
-}
 ```
 
 ![Hits](https://gpvc.arturio.dev/pragneshrana?v=3)
