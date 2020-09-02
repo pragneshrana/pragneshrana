@@ -1,10 +1,12 @@
 ### Hello! Namaste 🙏 
-
+---
 - ⚡ Fun fact: 'It was working in my computer'
-
+___
+'''
 > while(1)
->   Be Happy 😄
-
+  >   Be Happy 😄
+'''
+---
 
 ![Hits](https://gpvc.arturio.dev/pragneshrana?v=3)
 
