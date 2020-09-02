@@ -1,14 +1,12 @@
-### Namaste 🙏 'N Cheers 😄
+### Namaste 🙏 
 
 - ⚡ Fun fact: 'It was working in my computer'
 
 ##### while(1)
 
-> Your limitation – it’s only your imagination. 
+> Be Happy 😄
 
-<p align="center">
-	![Profile views](https://gpvc.arturio.dev/pragneshrana)
-</p>
+![Profile views](https://gpvc.arturio.dev/pragneshrana?v=3)
 
 <!--
 **pragneshrana/pragneshrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
