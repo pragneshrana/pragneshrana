@@ -1,4 +1,4 @@
-### Hello! Namaste 🙏 
+### Namaste! 🙏 
 
 ---
 
