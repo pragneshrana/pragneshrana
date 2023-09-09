@@ -2,8 +2,6 @@
 
 ---
 
-- ⚡ Fun fact: 'It was working in my computer'
-
 ```
 while(1)
   Be Happy 😄
